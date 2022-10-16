@@ -58,3 +58,6 @@ import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
 ...
 export default withAuthenticator(App);
 ```
+
+for running locally on windows
+export NODE_OPTIONS=--openssl-legacy-provider
