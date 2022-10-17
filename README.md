@@ -2,7 +2,7 @@
 
 ## To install dependencies
 
-`npm i`
+`npm install --silent`
 
 ## To run locally
 
